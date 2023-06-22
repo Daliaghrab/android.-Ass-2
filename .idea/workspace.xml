@@ -9,15 +9,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4625b29d-6a36-4b43-91fb-360f2abf3a05" name="Changes" comment="Merge branch 'master' of https://github.com/Daliaghrab/ass2andrioddalia">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4625b29d-6a36-4b43-91fb-360f2abf3a05" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" show_ignored="true">
+  <component name="ChangesViewManager">
     <option name="groupingKeys">
       <option value="directory" />
       <option value="module" />
@@ -32,9 +30,6 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <task path="$PROJECT_DIR$/MathQuiz-master">
-          <activation />
-        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -54,15 +49,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -272,70 +259,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687461195727</updated>
     </task>
-    <task id="LOCAL-00004" summary="Fixing .gitignore">
-      <created>1687463026406</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1687463026406</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Fixing .gitignore">
-      <created>1687463034016</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1687463034016</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Fixing .gitignore">
-      <created>1687463077822</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1687463077822</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Fixing .gitignore">
-      <created>1687463088133</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1687463088133</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Fixing .gitignore">
-      <created>1687463137560</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1687463137560</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Fixing .gitignore">
-      <created>1687463286910</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1687463286910</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Fixing .gitignore">
-      <created>1687463400923</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1687463400923</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Fixing .gitignore">
-      <created>1687463552098</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1687463552098</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Merge branch 'master' of https://github.com/Daliaghrab/ass2andrioddalia">
-      <created>1687463787335</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1687463787335</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,8 +278,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <MESSAGE value="Fixing .gitignore" />
-    <MESSAGE value="Merge branch 'master' of https://github.com/Daliaghrab/ass2andrioddalia" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/Daliaghrab/ass2andrioddalia" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
